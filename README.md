@@ -36,5 +36,5 @@ When the client is launched, it creates a TCP socket bound to the server address
 java –jar DictionaryClient.jar <server-address> <server-port>
 ```
 
-server-address : adreess of server (e.g. http://localhost) \
+server-address : adreess of server (e.g. localhost) \
 server-port : port number on that server is running 
